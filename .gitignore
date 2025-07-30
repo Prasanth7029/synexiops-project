@@ -1,0 +1,22 @@
+# Java
+**/target/
+*.class
+
+# Go
+**/vendor/
+**/*.exe
+
+# Node/React/Vite
+node_modules/
+dist/
+.build/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE & OS
+*.swp
+*.DS_Store
+.idea/
+.vscode/
